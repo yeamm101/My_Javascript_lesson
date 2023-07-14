@@ -51,6 +51,7 @@ const productArrow = (a, b) => {
   return a * b;
 };
 
+console.log((productArrow(23, 2)));
 // arrow function with implicit return
 // no brass needed
 const sumArrow = (a, b) => a + b;
