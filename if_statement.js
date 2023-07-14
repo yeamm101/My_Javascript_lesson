@@ -15,7 +15,7 @@ booleans true/false
 /*math methods
 Floor = round down
 ceil = round up
-random = gives you a random number between 0 and 1 so to get a nuber between 0 and 6 we multiply Math.random() by 6
+random = gives you a random number between 0 and 1 so to get a number between 0 and 6 we multiply Math.random() by 6
 */
 
 // baby weather app
